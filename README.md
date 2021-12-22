@@ -28,7 +28,7 @@ https://www.openvswitch.org/download/
 sudo mn --topo single,3 --mac --switch ovsk --controller remote
 
 ```
-#### STart Real time prediction
+#### Start Real time prediction
 
 ```
 python3 traffic_classifier_python3.py supervised 
