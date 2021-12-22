@@ -1,0 +1,2 @@
+# Traffic-classifier-SDN
+A system that could classify DNS, Telnet, Ping, Voice, Game, and Video traffic flows based on packet and byte information simulated by the Distributed Internet Traffic Generator (D-ITG) tool in an Software Defined Network (SDN) based network topology with Open vSwitch (OVS) using machine learning algorithms such as Logistic regression,K-Means clustering,K nearest neighbours, SVC, Gaussian NB and Random Forest Classifier.
