@@ -1,0 +1,5 @@
+-a 10.0.0.1 -rp 10001 VoIP -x G.711.2 -h RTP -VAD
+-a 10.0.0.1 -rp 10002 Quake3
+-a 10.0.0.1 -rp 10002 Telnet
+-a 10.0.0.1 -rp 10002 CSa
+-a 10.0.0.1 -rp 10003 DNS
